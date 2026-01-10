@@ -1,0 +1,21 @@
+.callout[data-callout="custom-weather-icon"] {
+    --callout-color: 78, 181, 138;
+    --callout-icon: cloud-sun;
+}
+
+.callout[data-callout="custom-brain-icon"] {
+    --callout-color: 90, 98, 214;
+    --callout-icon: brain;
+}
+
+
+.callout[data-callout="custom-notebook-icon"] {
+    --callout-color: 232, 67, 87;
+    --callout-icon: notebook-pen;
+}
+
+.callout[data-callout="custom-food-icon"] {
+    --callout-color: 232, 67, 87;
+    --callout-icon: apple;
+}
+

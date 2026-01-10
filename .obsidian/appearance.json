@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "task_styles",
+    "custom_buttons",
+    "custom_callouts",
+    "custom_tables",
+    "graph_styling"
+  ],
+  "cssTheme": "Minimal",
+  "baseFontSize": 16
+}

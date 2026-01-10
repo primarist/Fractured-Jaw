@@ -1,0 +1,34 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Hello World",
+      "path": "Hello World.md"
+    },
+    {
+      "basename": "Button Setup",
+      "path": "_Bin/_Guides/Button Setup.md"
+    },
+    {
+      "basename": "Session",
+      "path": "_Bin/_Templates/Session.md"
+    },
+    {
+      "basename": "General Note",
+      "path": "_Bin/_Templates/General Note.md"
+    },
+    {
+      "basename": "Doc to Table",
+      "path": "_Bin/_Templates/Doc to Table.md"
+    },
+    {
+      "basename": "Note UID Generator",
+      "path": "_Bin/_Development/Note UID Generator.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}

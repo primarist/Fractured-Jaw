@@ -1,0 +1,92 @@
+{
+  "collapse-filter": false,
+<<<<<<< Updated upstream
+  "search": "-#task/ -path:_Bin  ",
+=======
+  "search": "-#task/ -path:_Bin",
+>>>>>>> Stashed changes
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+<<<<<<< Updated upstream
+      "query": "tag:#work/render",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#work/render/confirmbio  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#work/verstand/",
+      "color": {
+        "a": 1,
+        "rgb": 2063067
+=======
+      "query": "/#work\\/render\\/.*$/ ",
+      "color": {
+        "a": 1,
+        "rgb": 5405920
+>>>>>>> Stashed changes
+      }
+    },
+    {
+      "query": "/#work\\/verstand\\/.*$/ ",
+      "color": {
+        "a": 1,
+<<<<<<< Updated upstream
+        "rgb": 2063067
+      }
+    },
+    {
+      "query": "tag:#work/verstand/som  ",
+      "color": {
+        "a": 1,
+        "rgb": 2063067
+      }
+    },
+    {
+      "query": "path:\"Landing Zone\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15085024
+=======
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "/#work\\/bfly\\/.*$/ ",
+      "color": {
+        "a": 1,
+        "rgb": 14710098
+>>>>>>> Stashed changes
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.347920997921,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+<<<<<<< Updated upstream
+  "scale": 0.2875504834809683,
+  "close": false
+=======
+  "scale": 0.1816117772960761,
+  "close": true
+>>>>>>> Stashed changes
+}

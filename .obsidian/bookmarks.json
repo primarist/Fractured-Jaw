@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1750857372254,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750857333674,
+          "path": "Work/Butterfly/Projects/Inventory & Fulfillment/_Tasks.canvas",
+          "title": "Inventory & Fulfillment Tracker"
+        },
+        {
+          "type": "file",
+          "ctime": 1750857395511,
+          "path": "Work/Butterfly/Projects/Lead Generation/_Tasks.canvas",
+          "title": "Lead Generation Tracker"
+        },
+        {
+          "type": "file",
+          "ctime": 1750952607715,
+          "path": "Work/Butterfly/Projects/Salesforce Embedding/_Tasks.canvas",
+          "title": "Salesforce Embedding Tracker"
+        }
+      ],
+      "title": "Task Trackers"
+    },
+    {
+      "type": "group",
+      "ctime": 1750885227586,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750885241169,
+          "path": "Work/Butterfly/Projects/Inventory & Fulfillment/_Index.md",
+          "title": "Inventory & Fulfillment Index"
+        },
+        {
+          "type": "file",
+          "ctime": 1750885259206,
+          "path": "Work/Butterfly/Projects/Lead Generation/_Index.md",
+          "title": "Lead Generation Index"
+        },
+        {
+          "type": "file",
+          "ctime": 1750952636718,
+          "path": "Work/Butterfly/Projects/Salesforce Embedding/_Index.md",
+          "title": "Salesforce Embedding Index"
+        }
+      ],
+      "title": "Project Indexes"
+    }
+  ]
+}
