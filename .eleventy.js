@@ -1,5 +1,13 @@
 // .eleventy.js
+const { DateTime } = require("luxon");
+
 module.exports = function(eleventyConfig) {
+
+  // Add date filter
+  eleventyConfig.addFilter("date", (dateObj, format = "yyyy LLL dd") => {
+    return DateTime.fromJSDate(dateObj).toFormat(format);
+  });
+
   // --- 1. Passthrough copy for static assets ---
   eleventyConfig.addPassthroughCopy("src/assets/css");
   eleventyConfig.addPassthroughCopy("src/assets/js");
