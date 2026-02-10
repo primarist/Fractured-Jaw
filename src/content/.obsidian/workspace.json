@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "73b7427fb4b166eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "537dcb2dd0077d6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e8b997d84f7bf5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bafd0658928f1d1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc2e2993e996f3a",
+        "type": "tabs",
+        "dimension": 60.98191214470285,
+        "children": [
+          {
+            "id": "98f713dc8df4836f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d661a64420bc23b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tagfolder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2e812c644470ebb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "15f37b44e01b0615",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e97c4f5e1c21284",
+        "type": "tabs",
+        "dimension": 39.01808785529715,
+        "children": [
+          {
+            "id": "eaffc9a54e991c70",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "a425389173266ec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "504d40c69ea195d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9abecfd54c4af0b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "66a770029936f685",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f631845617902b78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "eb5f783aeac506e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2026/01-January/2026-01-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-01-09"
+            }
+          },
+          {
+            "id": "f26229313abeb2eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": true,
+      "canvas:Create new canvas": true,
+      "bases:Create new base": true,
+      "random-note:Open random note": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "98f713dc8df4836f",
+  "lastOpenFiles": [
+    "src/content/tmp",
+    "src/content/New folder",
+    "src/content/_archive/media/music",
+    "src/content/_archive/media/film",
+    "src/content/_archive/media/books",
+    "src/content/_bin/templates",
+    "src/content/_bin/scripts",
+    "src/content/_archive/wiki",
+    "src/content/_bin/guides",
+    "src/content/_archive/talks",
+    "src/content/_archive/projects",
+    "Hello World.md",
+    "2026/01-January/2026-01-10/init.md",
+    "2026/01-January/2026-01-10/unti.md",
+    "2026/01-January/2026-01-10.md",
+    "_Resources/Icons/favicons/favicon-32x32.png",
+    "Content/Test/Hello Level 2.md",
+    "Content/Test/Subtest/Hello Level 3.md",
+    "_Guides/Button Setup.md",
+    "_Templates/Session.md",
+    "_Templates/General Note.md",
+    "_Templates/Doc to Table.md",
+    "_Development/Note UID Generator.md",
+    "_Bin/_Development/Gantt Chart.md",
+    "_Bin/_Archive/Automated Looker Docs.md",
+    "_Bin/_Archive/Welcome.md",
+    "Untitled.md",
+    "_Bin/_Resources/Daily Journal Prompts.md",
+    "_Templates/Weather Widget.md",
+    "_Templates/Single Task.md",
+    "_Templates/Single Session.md",
+    "_Templates/Quote.md",
+    "_Templates/Journal Entry.md",
+    "_Templates/Daily Note.md",
+    "_Bin/_Resources/Images/web-box-custom-white.png",
+    "_Bin/_Resources/Images/Render v0.1.png",
+    "_Bin/_Resources/Images/Pasted image 20251209153825.png",
+    "_Bin/_Resources/Images/Pasted image 20251209152958.png",
+    "_Bin/_Resources/Images/Pasted image 20251209152707.png",
+    "_Bin/_Resources/Images/Pasted image 20251209152536.png",
+    "_Bin/_Resources/Images/Pasted image 20251209152354.png",
+    "_Bin/_Resources/Images/Pasted image 20251120140309.png",
+    "_Bin/_Resources/Images/Pasted image 20251118153810.png",
+    "_Guides/Detailed Guides/Task.md",
+    "_Guides/Detailed Guides/Table.md",
+    "_Guides/Detailed Guides/Strikethrough.md",
+    "Untitled.canvas",
+    "Work/Verstand AI/CSSolutions/Project Management/Tasks Dashboard.canvas",
+    "Work/Render Analytics/Projects/California Custom Fruits/Project Management/_California Custom Fruits Tasks.canvas",
+    "Work/Render Analytics/Projects/Apple Montessori/Project Management/_Apple Montessori Tasks.canvas",
+    "Work/Render Analytics/Projects/Confirm Biosciences/Project Management/_Confirm Biosciences Tasks.canvas",
+    "Work/Render Analytics/Projects/Firehook Bakery/Project Management/_Firehook Bakery Tasks.canvas",
+    "Work/Render Analytics/Projects/Rochester Midland/Project Management/_Rochester Midland Tasks.canvas",
+    "Work/Butterfly/Projects/Iterable Emails/_Tasks.canvas",
+    "Work/Butterfly/Projects/Quality Assurance/_Tasks.canvas",
+    "Work/Butterfly/Projects/Inventory & Fulfillment/_Tasks.canvas"
+  ]
+}

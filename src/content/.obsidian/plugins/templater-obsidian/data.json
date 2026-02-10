@@ -1,0 +1,56 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_Bin/_Templates",
+  "templates_pairs": [
+    [
+      "getWeather",
+      "curl wttr.in/Portland+Maine\\format=\"%l:+%c+%t+feels+like+%f\\nSunrise:+%S\\nSunset:++%s\\nMoon:++++%m\\n\""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Sessions",
+      "template": "_Templates/Session.md"
+    },
+    {
+      "folder": "/",
+      "template": "_Templates/Daily Note.md"
+    },
+    {
+      "folder": "Personal/Journal",
+      "template": "_Templates/Journal Entry.md"
+    },
+    {
+      "folder": "Landing Zone",
+      "template": "_Templates/General Note.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "_Templates/Single Task.md",
+    "_Templates/Single Session.md",
+    "_Templates/General Note.md",
+    "_Templates/Journal Entry.md",
+    "_Templates/Testing.md",
+    "_Templates/Doc to Table.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

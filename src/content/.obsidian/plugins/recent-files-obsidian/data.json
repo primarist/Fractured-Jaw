@@ -1,0 +1,30 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Button Setup",
+      "path": "_Guides/Button Setup.md"
+    },
+    {
+      "basename": "Session",
+      "path": "_Templates/Session.md"
+    },
+    {
+      "basename": "General Note",
+      "path": "_Templates/General Note.md"
+    },
+    {
+      "basename": "Doc to Table",
+      "path": "_Templates/Doc to Table.md"
+    },
+    {
+      "basename": "Note UID Generator",
+      "path": "_Development/Note UID Generator.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}
