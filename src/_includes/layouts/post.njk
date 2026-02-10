@@ -2,7 +2,7 @@
 {% block content %}
 <article>
   <h1>{{ title }}</h1>
-  <p class="date">{{ date }}</p>
+  <p class="post-date">{{ post.date | date("MMMM d, yyyy") }}</p>
   {{ content | safe }}
   {% include "partials/giscus.njk" %}
 </article>
