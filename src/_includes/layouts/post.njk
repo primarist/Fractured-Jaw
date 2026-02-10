@@ -1,0 +1,9 @@
+{% extends "layouts/base.njk" %}
+{% block content %}
+<article>
+  <h1>{{ title }}</h1>
+  <p class="date">{{ date }}</p>
+  {{ content | safe }}
+  {% include "partials/giscus.njk" %}
+</article>
+{% endblock %}

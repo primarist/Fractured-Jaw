@@ -1,0 +1,9 @@
+# Ignore Obsidian vault config
+src/content/.obsidian/
+src/content/.trash/
+src/content/_local/
+src/content/_archive/
+src/content/drafts/
+
+# Ignore site output
+src/_site/

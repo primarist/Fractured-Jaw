@@ -1,0 +1,12 @@
+[
+  { "title": "Home", "url": "/" },
+  { "title": "Blog", "url": "/blog/" },
+  { "title": "Essays", "url": "/essays/" },
+  { "title": "Fragments", "url": "/fragments/" },
+  { "title": "Media", "url": "/media/" },
+  { "title": "Notes", "url": "/notes/" },
+  { "title": "Pages", "url": "/pages/" },
+  { "title": "Projects", "url": "/projects/" },
+  { "title": "Wiki", "url": "/wiki/" },
+  { "title": "Talks", "url": "/talks/" }
+]
